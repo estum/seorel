@@ -1,0 +1,16 @@
+ru:
+  activerecord:
+    model:
+      seorel: СЕО
+
+    attributes:
+      seorel:
+        title: Заголовок Meta
+        desciption: Описание Meta
+
+  attributes:
+    seorel: СЕО
+
+  seorel:
+    admin:
+      label: "Дополнительные опции"
